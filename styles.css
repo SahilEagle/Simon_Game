@@ -11,6 +11,12 @@ body {
   margin-top: 20px;
 }
 
+p{
+  font-family: 'Press Start 2P', cursive;
+  color: #FEF2BF;
+  /* font-size: 2rem; */
+}
+
 #high-score{
   font-family: 'Press Start 2P', cursive;
   font-size: 1rem;
